@@ -226,6 +226,9 @@ msgstr "Get Started"
 msgid "BTN_GO_HOME"
 msgstr "Back to Sudomemo"
 
+msgid "BTN_GO_TO_EDIT_PROFILE"
+msgstr "Go to Edit Profile"
+
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Go to Settings"
 
@@ -437,6 +440,258 @@ msgstr "Are you sure you want to remove this item from the queue?"
 msgid "CONFIRM_TOGGLE_WEBHOOK"
 msgstr "Are you sure you want to change the status of this webhook?"
 
+msgid "CONSOLE_ADDED"
+msgstr "Added"
+
+msgid "CONSOLE_ADDED_SUCCESS"
+msgstr "Console registered successfully!"
+
+msgid "CONSOLE_ADD_FAILED"
+msgstr "Failed to register console. Please try again."
+
+msgid "CONSOLE_ADD_HELPER"
+msgstr "This identifies your console and allows it to connect to your Sudomemo account. Only register consoles you control."
+
+msgid "CONSOLE_ALREADY_ADDED"
+msgstr "This console is already registered to your account."
+
+msgid "CONSOLE_ALREADY_REMOVED"
+msgstr "This console has already been removed."
+
+msgid "CONSOLE_BTN_ADD_CONSOLE"
+msgstr "Register Console"
+
+msgid "CONSOLE_BTN_BACK"
+msgstr "Back"
+
+msgid "CONSOLE_BTN_BUILD_SAVE"
+msgstr "Build Save Data"
+
+msgid "CONSOLE_BTN_CANCEL"
+msgstr "Cancel"
+
+msgid "CONSOLE_BTN_OPEN"
+msgstr "Open"
+
+msgid "CONSOLE_BTN_REMOVE"
+msgstr "Remove"
+
+msgid "CONSOLE_BTN_SENDING"
+msgstr "Sending…"
+
+msgid "CONSOLE_BTN_VERIFY"
+msgstr "Verify"
+
+msgid "CONSOLE_BTN_VERIFYING"
+msgstr "Verifying…"
+
+msgid "CONSOLE_CONFIRM_REMOVE"
+msgstr "Are you sure you want to remove this console? You can register it again later."
+
+msgid "CONSOLE_DETAIL_TYPE"
+msgstr "Model"
+
+msgid "CONSOLE_INVALID_MAC"
+msgstr "That doesn't look like a valid MAC address. Please enter a 12-character hexadecimal address (e.g. AA:BB:CC:DD:EE:FF)."
+
+msgid "CONSOLE_INVALID_OUI"
+msgstr "That MAC address doesn't appear to belong to a supported Nintendo console. Please double-check the address from your console's System Settings."
+
+msgid "CONSOLE_LABEL_FIELD"
+msgstr "Label"
+
+msgid "CONSOLE_LABEL_PLACEHOLDER"
+msgstr "My DSi, 3DS XL (Blue)"
+
+msgid "CONSOLE_LABEL_REQUIRED"
+msgstr "Please enter a label for your console."
+
+msgid "CONSOLE_MAC_FIELD"
+msgstr "MAC Address"
+
+msgid "CONSOLE_MAC_IN_USE"
+msgstr "That MAC address is already associated with a different account."
+
+msgid "CONSOLE_MAC_PLACEHOLDER"
+msgstr "AA:BB:CC:DD:EE:FF"
+
+msgid "CONSOLE_MAC_REQUIRED"
+msgstr "Please enter a MAC address."
+
+msgid "CONSOLE_MANAGEMENT_DESCRIPTION"
+msgstr "Manage which Nintendo consoles are associated with your Sudomemo account."
+
+msgid "CONSOLE_MANAGEMENT_TITLE"
+msgstr "Console Management"
+
+msgid "CONSOLE_MODAL_ADD_TITLE"
+msgstr "Register a Console"
+
+msgid "CONSOLE_MODAL_SAVE_TITLE"
+msgstr "Build Save Data"
+
+msgid "CONSOLE_NOT_FOUND"
+msgstr "Console entry not found."
+
+msgid "CONSOLE_NO_CONSOLES"
+msgstr "You haven't registered any consoles yet."
+
+msgid "CONSOLE_PAGE_DESCRIPTION"
+msgstr "Register your Nintendo console here to use it with Sudomemo. Once registered, you can build a save file that links the console to your account."
+
+msgid "CONSOLE_PAGE_HOW_TO"
+msgstr "How to get started:"
+
+msgid "CONSOLE_PAGE_STEP_1"
+msgstr "Find your console's MAC address in System Settings → Internet."
+
+msgid "CONSOLE_PAGE_STEP_2"
+msgstr "Click \"Register Console\" and enter your MAC address along with a label."
+
+msgid "CONSOLE_PAGE_STEP_3"
+msgstr "Open the console you just registered and click \"Build Save Data\" to download a save file."
+
+msgid "CONSOLE_PAGE_STEP_4"
+msgstr "Follow our guide to install the new save file onto your Nintendo console."
+
+msgid "CONSOLE_PAGE_TITLE"
+msgstr "Your Consoles"
+
+msgid "CONSOLE_REMOVED_SUCCESS"
+msgstr "Console removed."
+
+msgid "CONSOLE_REMOVE_FAILED"
+msgstr "Failed to remove console. Please try again."
+
+msgid "CONSOLE_SAVE_BODY_1"
+msgstr "This builds a new Flipnote Studio save file that links this console to your Sudomemo account."
+
+msgid "CONSOLE_SAVE_BODY_2"
+msgstr "Any Flipnotes stored in System Memory will be permanently lost. To keep them, use \"Back Up Data\" in Flipnote Studio before continuing."
+
+msgid "CONSOLE_SAVE_BODY_3"
+msgstr "Only consoles with this prepared save data can connect to your Sudomemo account. Other consoles will not be able to access it."
+
+msgid "CONSOLE_SAVE_BODY_WARNING"
+msgstr "WARNING: THIS WILL REPLACE YOUR EXISTING FLIPNOTE STUDIO SAVE DATA."
+
+msgid "CONSOLE_SAVE_BTN_CONTINUE"
+msgstr "Continue"
+
+msgid "CONSOLE_SAVE_BTN_DOWNLOAD"
+msgstr "Download Save Data"
+
+msgid "CONSOLE_SAVE_BUILD_FAILED"
+msgstr "Failed to build save data. Please try again later."
+
+msgid "CONSOLE_SAVE_BUILT_JUST_NOW"
+msgstr "Save data built just now"
+
+msgid "CONSOLE_SAVE_CONFIRM_CHECKBOX"
+msgstr "I understand this will replace my save data and cannot be undone"
+
+msgid "CONSOLE_SAVE_NOT_APPROVED"
+msgstr "This console must be in active status to build a save file."
+
+msgid "CONSOLE_SAVE_NO_BIRTHDAY"
+msgstr "Your birthday is not set. Please set your birthday in your Flipnote Studio settings after connecting, as it will not be included in this save file."
+
+msgid "CONSOLE_SAVE_RATE_LIMITED"
+msgstr "Please wait a few minutes before building another save file for this console."
+
+msgid "CONSOLE_SAVE_READY_BODY_1"
+msgstr "Your console is now prepared to connect to Sudomemo."
+
+msgid "CONSOLE_SAVE_READY_BODY_2"
+msgstr "Install this save file on your console to complete setup."
+
+msgid "CONSOLE_SAVE_READY_TITLE"
+msgstr "Save Data Ready"
+
+msgid "CONSOLE_SAVE_STAGE_1"
+msgstr "Constructing data..."
+
+msgid "CONSOLE_SAVE_STAGE_2"
+msgstr "Embedding console identity..."
+
+msgid "CONSOLE_SAVE_STAGE_3"
+msgstr "Finalizing save data..."
+
+msgid "CONSOLE_SAVE_SUBTEXT"
+msgstr "Builds a save file to connect this console to your account."
+
+msgid "CONSOLE_SAVE_UNAVAILABLE"
+msgstr "Save data building is not currently available. Please check back later."
+
+msgid "CONSOLE_SECTION_DETAILS"
+msgstr "Console Details"
+
+msgid "CONSOLE_SECTION_SETUP"
+msgstr "Setup"
+
+msgid "CONSOLE_SHOW_MAC"
+msgstr "Console MAC Address"
+
+msgid "CONSOLE_STATUS_ACTIVE"
+msgstr "Active"
+
+msgid "CONSOLE_STATUS_REMOVED"
+msgstr "Removed"
+
+msgid "CONSOLE_STATUS_SUSPENDED"
+msgstr "Suspended by staff"
+
+msgid "CONSOLE_SUSPENDED"
+msgstr "This console has been suspended by a staff member. Please contact support if you believe this is an error."
+
+msgid "CONSOLE_TYPE_FIELD"
+msgstr "Console Type"
+
+msgid "CONSOLE_TYPE_REQUIRED"
+msgstr "Please select your console type."
+
+msgid "CONSOLE_TYPE_SELECT_PROMPT"
+msgstr "Select your console model…"
+
+msgid "CONSOLE_UNNAMED_DEVICE"
+msgstr "Console"
+
+msgid "CONSOLE_VERIFY_CODE_EXPIRED"
+msgstr "That verification code has expired. Please request a new one."
+
+msgid "CONSOLE_VERIFY_CODE_FORMAT"
+msgstr "Please enter a 6-digit code."
+
+msgid "CONSOLE_VERIFY_CODE_INVALID"
+msgstr "That code is incorrect. Please try again."
+
+msgid "CONSOLE_VERIFY_CODE_LABEL"
+msgstr "Verification Code"
+
+msgid "CONSOLE_VERIFY_CODE_REQUIRED"
+msgstr "Please enter the 6-digit verification code."
+
+msgid "CONSOLE_VERIFY_CODE_SENT"
+msgstr "A verification code has been sent to your email address. Enter it below to complete registration."
+
+msgid "CONSOLE_VERIFY_EMAIL_FAILED"
+msgstr "Failed to send verification email. Please try again later."
+
+msgid "CONSOLE_VERIFY_INSTRUCTIONS"
+msgstr "We've sent a 6-digit verification code to your email address. Enter it below to complete the console registration."
+
+msgid "CONSOLE_VERIFY_NO_EMAIL"
+msgstr "No email address is associated with your account. Please set your email address first."
+
+msgid "CONSOLE_VERIFY_NO_PENDING"
+msgstr "No pending verification found. Please start the registration process again."
+
+msgid "CONSOLE_VERIFY_TITLE"
+msgstr "Enter Verification Code"
+
+msgid "CONSOLE_VERIFY_TOO_MANY_ATTEMPTS"
+msgstr "Too many incorrect attempts. Please request a new verification code."
+
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
 
@@ -645,6 +900,9 @@ msgstr "Enter a title"
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
 msgstr "Note: Flipnote preview does not update."
 
+msgid "EDIT_PAGE_MEMO_PLUS_EDITOR"
+msgstr "Open Memo+ Editor"
+
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
 msgstr "Non this is correct :("
 
@@ -669,6 +927,9 @@ msgstr "MusicMatch didn't find no songs matching your Flipnote. sry :("
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
 msgstr "Flipnoddle Audio Enhancement"
 
+msgid "EDIT_PAGE_PLUS_MEMO_PLUS"
+msgstr "Memo+"
+
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
 msgstr "smooOOoothing"
@@ -679,11 +940,20 @@ msgstr "Yous gots to have Sudomemo Plus to use these."
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
 msgstr "Title and Description"
 
+msgid "EDIT_PAGE_TITLE_CANNOT_REMOVE"
+msgstr "Flipnotes can't have blank titles."
+
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Letters, numbers, and symbols, maximum of 40 characters."
 
 msgid "EDIT_PLAYLIST"
 msgstr "Edit Playlist"
+
+msgid "EDIT_PROFILE"
+msgstr "Edit Profile"
+
+msgid "EDIT_PROFILE_LAYOUT"
+msgstr "Edit Profile Layout"
 
 msgid "EMAIL_ALREADY_IN_USE"
 msgstr "This email address is already in use by another account."
@@ -1205,6 +1475,15 @@ msgstr "Invalid webhook ID."
 msgid "INVALID_WEBHOOK_URL_FORMAT"
 msgstr "Invalid Discord webhook URL format."
 
+msgid "INVENTORY_ITEMS_WEB_HEADER"
+msgstr "A collection of fun and unique items you've picked up along the way."
+
+msgid "INVENTORY_TICKETS_SHOP_NOTICE"
+msgstr "Discover redeemable tickets for Sudomemo Plus and Color Stars in the Sudomemo Shop!"
+
+msgid "INVENTORY_TICKETS_WEB_HEADER"
+msgstr "Redeem tickets for special rewards like Themes, Sudomemo Plus, Color Stars, and more."
+
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
 
@@ -1299,6 +1578,60 @@ msgstr "Maximum number of accounts reached"
 
 msgid "MAX_WEBHOOKS_REACHED"
 msgstr "You have reached the maximum limit of %d webhooks per user."
+
+msgid "MEMOPLUS_APPLY"
+msgstr "Apply Memo+"
+
+msgid "MEMOPLUS_GUIDELINES_CLOSING"
+msgstr "Keep it creative, but also considerate of everyone viewing your work."
+
+msgid "MEMOPLUS_GUIDELINES_DESIGN_BODY"
+msgstr "Memo+ is an enhancement, not a replacement. Your Flipnote should still be clear and enjoyable on original hardware where Memo+ effects are not visible."
+
+msgid "MEMOPLUS_GUIDELINES_DESIGN_TITLE"
+msgstr "Design for both experiences"
+
+msgid "MEMOPLUS_GUIDELINES_FLASHING_BODY"
+msgstr "Rapid or intense flashing colors can be uncomfortable or unsafe for some viewers (including those with photosensitivity). Try to use effects thoughtfully and avoid excessive flashing."
+
+msgid "MEMOPLUS_GUIDELINES_FLASHING_TITLE"
+msgstr "Be mindful with flashing effects"
+
+msgid "MEMOPLUS_GUIDELINES_MODERATION_BODY"
+msgstr "If Memo+ effects are deemed unsafe or disruptive, moderators may remove the Memo+ data or take action on the Flipnote."
+
+msgid "MEMOPLUS_GUIDELINES_MODERATION_TITLE"
+msgstr "Moderation may apply"
+
+msgid "MEMOPLUS_GUIDELINES_PLEASE_NOTE"
+msgstr "Please keep the following in mind:"
+
+msgid "MEMOPLUS_GUIDELINES_TITLE"
+msgstr "Memo+ Guidelines"
+
+msgid "MEMOPLUS_GUIDELINES_WHAT_IS_BODY"
+msgstr "Memo+ is a color enhancement feature for Flipnotes on Sudomemo. It allows you to add additional colors and visual effects when your Flipnote is viewed on Sudomemo Theatre, while the original Flipnote remains unchanged on Nintendo DSi and 3DS systems."
+
+msgid "MEMOPLUS_GUIDELINES_WHAT_IS_TITLE"
+msgstr "What is Memo+?"
+
+msgid "MEMOPLUS_REQUIRES_PLUS_BODY"
+msgstr "Your Memo+ edits can be saved, but you'll need Sudomemo Plus to apply them to this Flipnote."
+
+msgid "MEMOPLUS_REQUIRES_PLUS_TITLE"
+msgstr "Memo+ requires Sudomemo Plus"
+
+msgid "MEMOPLUS_SAVE_READONLY_TOOLTIP"
+msgstr "This Memo+ palette is read-only because Memo+ is currently enabled on this Flipnote and your Sudomemo Plus has expired. The current Memo+ effect will stay on, but changes cannot be saved unless you get Sudomemo Plus again."
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_BODY"
+msgstr "Memo+ is currently turned on for this Flipnote, but you do not have Sudomemo Plus. If you turn it off now, it will stay off until you have Sudomemo Plus again. Your saved palette data will still be kept."
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_CONFIRM"
+msgstr "Turn Off Memo+"
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_TITLE"
+msgstr "Turn off Memo+?"
 
 msgid "MERCH"
 msgstr "Merch"
@@ -1685,6 +2018,9 @@ msgstr "Pin"
 msgid "PINNED_COMMENT"
 msgstr "Pinned Comment"
 
+msgid "PI_SEE_IN_INVENTORY"
+msgstr "You can find this in your Inventory!"
+
 msgid "PLAYLIST"
 msgstr "Playlist"
 
@@ -1825,6 +2161,123 @@ msgstr "Profile Picture"
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
 msgstr "Recent AAAAAA"
+
+msgid "PROFILE_SHELVES_BTN_CHANGE"
+msgstr "Change"
+
+msgid "PROFILE_SHELVES_BTN_CREATE"
+msgstr "Create Shelf"
+
+msgid "PROFILE_SHELVES_BTN_DELETE"
+msgstr "Delete Shelf"
+
+msgid "PROFILE_SHELVES_BTN_REMOVE"
+msgstr "Remove"
+
+msgid "PROFILE_SHELVES_CREATE_TITLE"
+msgstr "Create Shelf"
+
+msgid "PROFILE_SHELVES_DESCRIPTION"
+msgstr "Use shelves to show off the things you're proud of!"
+
+msgid "PROFILE_SHELVES_ERROR_GENERIC"
+msgstr "Could not save profile shelf changes."
+
+msgid "PROFILE_SHELVES_ERROR_NETWORK"
+msgstr "Could not reach the server. Please try again."
+
+msgid "PROFILE_SHELVES_FORM_SHELF_TITLE"
+msgstr "Shelf Title"
+
+msgid "PROFILE_SHELVES_FORM_SHELF_TYPE"
+msgstr "Shelf Type"
+
+msgid "PROFILE_SHELVES_ID_PREFIX"
+msgstr "ID"
+
+msgid "PROFILE_SHELVES_ITEMS_LABEL"
+msgstr "items"
+
+msgid "PROFILE_SHELVES_KEY_PREFIX"
+msgstr "Key"
+
+msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
+msgstr "Maximum 8 Flipnotes"
+
+msgid "PROFILE_SHELVES_MAX_PLAYLISTS_REACHED"
+msgstr "Maximum 8 Playlists"
+
+msgid "PROFILE_SHELVES_NONE"
+msgstr "No shelves yet."
+
+msgid "PROFILE_SHELVES_PLAYLIST_SELECTED"
+msgstr "Playlist selected"
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_HELP"
+msgstr "Pick a Flipnote to use as your profile photo."
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_LABEL"
+msgstr "Choose one of your Flipnotes"
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_PLACEHOLDER"
+msgstr "Search your Flipnotes by title..."
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SELECTED"
+msgstr "You have selected a profile photo Flipnote."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_FLIPNOTES"
+msgstr "No matching Flipnotes found."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_PLAYLISTS"
+msgstr "No matching Playlists found."
+
+msgid "PROFILE_SHELVES_SEARCH_ERROR"
+msgstr "Could not search right now."
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_HELP"
+msgstr "Start typing to search your uploads"
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_LABEL"
+msgstr "Find your Flipnotes"
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_PLACEHOLDER"
+msgstr "Paste a link, Flipnote ID, title, or description"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_HELP"
+msgstr "Start typing to search your playlists"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_LABEL"
+msgstr "Find your Playlists"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_PLACEHOLDER"
+msgstr "Paste a playlist link, key, title, or description"
+
+msgid "PROFILE_SHELVES_TITLE"
+msgstr "Profile Shelves"
+
+msgid "PROFILE_SHELVES_TYPE_FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "PROFILE_SHELVES_TYPE_LABEL"
+msgstr "Type"
+
+msgid "PROFILE_SHELVES_TYPE_PLAYLIST"
+msgstr "Playlist"
+
+msgid "PROFILE_SHELVES_TYPE_PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PROFILE_SHELVES_UNSAVED_CHANGES_WARNING"
+msgstr "You have unsaved changes."
+
+msgid "PROFILE_SHELVES_UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
+msgid "PROFILE_SHELVES_UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
+msgstr "Uploaded"
 
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
@@ -2123,6 +2576,9 @@ msgstr "Subscribe Yearly"
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
+msgid "SUDOMEMO_DAILY_DRAW"
+msgstr "Sudomemo Daily Draw"
+
 msgid "SUDOMEMO_NEWS"
 msgstr "Sudomemo News"
 
@@ -2174,6 +2630,9 @@ msgstr "Terms of Use"
 msgid "TEST"
 msgstr "Test"
 
+msgid "THEME_ADVERT_TRY_THIS_THEME"
+msgstr "Try this theme!"
+
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
 msgstr "Dis flipynot isa spinaroo of"
 
@@ -2183,6 +2642,9 @@ msgstr "Tickets"
 
 msgid "TITLE"
 msgstr "Title"
+
+msgid "TODAYS_PROMPT"
+msgstr "Today's Prompt"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
@@ -2245,6 +2707,9 @@ msgstr "Upload stats"
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "Your account has been restricted from using our YouTube integration services."
 
+msgid "USERNAME"
+msgstr "Username"
+
 msgid "USERNAME_REQUIRED"
 msgstr "A username is required."
 
@@ -2278,8 +2743,14 @@ msgstr "Update your email address. A verification email will be sent to your new
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "You can change the password for your Sudomemo account here:"
 
+msgid "USER_SETTINGS_CONSOLE_MANAGEMENT_EXPLANATION"
+msgstr "View and manage the consoles linked to your Sudomemo account."
+
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+
+msgid "USER_SETTINGS_EDIT_PROFILE_EXPLANATION"
+msgstr "Change your profile photo, bio, and shelves in one place."
 
 msgid "USER_SETTINGS_EMAIL_EXPLANATION"
 msgstr "Configure which emails you receive and how often they're sent."
@@ -2287,8 +2758,17 @@ msgstr "Configure which emails you receive and how often they're sent."
 msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
 msgstr "Choose your preferred language for Sudomemo"
 
+msgid "USER_SETTINGS_PLUS_EXPLANATION"
+msgstr "Manage your Sudomemo Plus subscription and view benefits."
+
+msgid "USER_SETTINGS_PROFILE_LAYOUT_EXPLANATION"
+msgstr "Manage shelves shown above your profile Flipnotes."
+
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+
+msgid "USER_SETTINGS_USERNAME_EXPLANATION"
+msgstr "Update your username in your Nintendo DSi/3DS System Settings"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
@@ -2901,3 +3381,6 @@ msgstr "U be editing tis Flipnot e:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
+
+msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
+msgstr "Memo+"

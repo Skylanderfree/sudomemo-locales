@@ -325,6 +325,9 @@ msgstr "Gratulationer för att du varit med i första avsnittet av Sudomemo Radi
 msgid "TICKET_DESC_sudomemo_radio_ticket"
 msgstr "Tack för att du bidragit till Sudomemo Radio!"
 
+msgid "TICKET_DESC_super_birthday_ticket"
+msgstr "Like the Birthday Ticket, but super."
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Tack för att du fyllt i vårat formulär!"
 
@@ -520,6 +523,9 @@ msgstr "Sudomemo Radio Pilot Biljetten"
 msgid "TICKET_NAME_sudomemo_radio_ticket"
 msgstr "Sudomemo Radio Biljett"
 
+msgid "TICKET_NAME_super_birthday_ticket"
+msgstr "Super Birthday Ticket"
+
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Formulär biljetten"
 
@@ -553,6 +559,12 @@ msgstr "Tyvärr vann du inget. Osis!"
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "Du drog en %s!"
+
+msgid "TITLE"
+msgstr "Title"
+
+msgid "TROPHY"
+msgstr "Trophy"
 
 msgid "USE_ITEM"
 msgstr "Använd"

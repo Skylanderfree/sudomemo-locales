@@ -3,14 +3,26 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "GET_PLUS_QR"
+msgstr "Get Sudomemo Plus"
+
+msgid "LINK_EXTERNAL_WARNING"
+msgstr "Este enlace lleva a un sitio web externo, ¡ten cuidado al visitarlo!"
+
+msgid "LINK_QR_SCAN_HINT"
+msgstr "Escanea este código QR con un dispositivo distinto para abrir el enlace."
+
+msgid "LINK_QR_TITLE"
+msgstr "Abrir enlace"
+
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "¡No ha iniciado sesión en Sudomemo, toque %s para continuar!"
+msgstr "No has iniciado sesión en Sudomemo. ¡Toca %s para continuar!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aquí"
 
 msgid "NOT_REGISTERED_NOTICE"
-msgstr "¿Divirtiéndose? ¡Únete a Sudomemo tocando %s!"
+msgstr "¿Divirtiéndote? ¡Únete a Sudomemo tocando %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "aquí"

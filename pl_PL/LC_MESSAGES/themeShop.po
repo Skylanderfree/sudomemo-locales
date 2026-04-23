@@ -36,6 +36,9 @@ msgstr "Poprzednie"
 msgid "NO_DESCRIPTION_AVAILABLE"
 msgstr "Brak opisu"
 
+msgid "OWNED"
+msgstr "Owned"
+
 msgid "PREVIEW"
 msgstr "Podglad"
 
@@ -51,6 +54,9 @@ msgstr "Menu sklepu"
 msgid "THEME"
 msgstr "Motyw"
 
+msgid "THEME_INVENTORY_WEB_HEADER"
+msgstr "Here are the themes that you own! Preview new ones and switch between them below."
+
 msgid "THEME_SHOP"
 msgstr "Sklep z motywami"
 
@@ -62,6 +68,13 @@ msgstr "Potwierdz swoja transakcje ponizej."
 
 msgid "THEME_SHOP_EVOLVING_BACKGROUND"
 msgstr "Ten specjalny motyw bedzie zmieniac sie, gdy przeslesz nowe Flipnotes!"
+
+# %s will be an image of a green star.
+msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
+msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
+
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Dowiedz sie wiecej o sklepie z motywami"
@@ -98,6 +111,9 @@ msgstr "Wybrana metoda platnosci"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Wybierz metode platnosci"
+
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Kolorowe Gwiazdki pozostale po platnosci:"

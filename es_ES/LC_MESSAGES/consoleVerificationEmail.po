@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Console verification email - sent when user registers a new console
+msgid "EMAIL_SUBJECT"
+msgstr "Código de Verificación de Consola - Sudomemo"
+
+msgid "TEXT_EXPIRY"
+msgstr "Este código expirará en 15 minutos."
+
+msgid "TEXT_HELLO"
+msgstr "¡Hola!"
+
+msgid "TEXT_NOT_REQUESTED"
+msgstr "Si no hiciste esta solicitud, podrían haber accedido a tu cuenta sin tu autorización. Por favor, contacta al soporte de Sudomemo inmediatamente."
+
+msgid "TEXT_PURPOSE"
+msgstr "Has solicitado registrar una nueva consola a tu cuenta de Sudomemo. Escribe el código de verificación de abajo en la página de Administración de Consolas para completar el registro."

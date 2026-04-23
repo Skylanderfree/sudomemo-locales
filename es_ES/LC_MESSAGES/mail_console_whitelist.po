@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CONSOLE_MAIL_ADDED"
+msgstr "Se ha registrado una nueva consola a tu cuenta."
+
+msgid "CONSOLE_MAIL_LABEL"
+msgstr "Consola:"
+
+msgid "CONSOLE_MAIL_MANAGE_LINK"
+msgstr "Administrar tus consolas"
+
+msgid "CONSOLE_MAIL_REINSTATED"
+msgstr "Una consola previamente suspendida en tu cuenta ha sido rehabilitada por un miembro del equipo de Sudomemo."
+
+msgid "CONSOLE_MAIL_REMOVED"
+msgstr "Una consola ha sido eliminada de tu cuenta."
+
+msgid "CONSOLE_MAIL_SUSPENDED"
+msgstr "Una consola asociada con tu cuenta ha sido suspendida por un miembro del equipo de Sudomemo."
+
+msgid "CONSOLE_MAIL_SUSPENDED_HELP"
+msgstr "Si consideras que esto fue un error, por favor contacta con soporte."
+
+# In-app mail notification for console whitelist events
+# Locale domain: mail_console_whitelist
+# Loaded automatically by the mail reader via template name "console-whitelist"
+msgid "NOTICE"
+msgstr "Aviso"
+
+msgid "TITLE_WARNING"
+msgstr "Advertencia"
