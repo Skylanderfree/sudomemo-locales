@@ -6,7 +6,13 @@ msgstr ""
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
-msgid "FRAGMENT_ADDED"
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "FRAGMENT_ADDED_PLURAL"
+msgstr " tillagt "
+
+msgid "FRAGMENT_ADDED_SINGULAR"
 msgstr " tillagt "
 
 msgid "FRAGMENT_AND"
@@ -14,6 +20,9 @@ msgstr " och "
 
 msgid "FRAGMENT_A_STAR"
 msgstr "en Star"
+
+msgid "FRAGMENT_CHECK_OUT_TODAYS_FEATURED_FLIPNOTE"
+msgstr "Check out today's Featured Flipnote: "
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
@@ -24,7 +33,10 @@ msgstr ", och "
 msgid "FRAGMENT_COMMENT"
 msgstr "comment"
 
-msgid "FRAGMENT_COMMENTED_ON"
+msgid "FRAGMENT_COMMENTED_ON_PLURAL"
+msgstr " kommenterade på "
+
+msgid "FRAGMENT_COMMENTED_ON_SINGULAR"
 msgstr " kommenterade på "
 
 msgid "FRAGMENT_CONTENT"
@@ -34,6 +46,12 @@ msgid "FRAGMENT_CREATED_A"
 msgstr " skapade en "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
+msgstr " följde dig"
+
+msgid "FRAGMENT_FOLLOWED_YOU_PLURAL"
+msgstr " följde dig"
+
+msgid "FRAGMENT_FOLLOWED_YOU_SINGULAR"
 msgstr " följde dig"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"

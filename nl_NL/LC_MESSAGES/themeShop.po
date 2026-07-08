@@ -60,6 +60,20 @@ msgstr "Here are the themes that you own! Preview new ones and switch between th
 msgid "THEME_SHOP"
 msgstr "Themawinkel"
 
+msgid "THEME_SHOP_BADGE_AVAILABLE_UNTIL"
+msgstr "Available until %s"
+
+msgid "THEME_SHOP_BADGE_LIMITED"
+msgstr "Limited drop"
+
+# Variant of THEME_SHOP_BADGE_LIMITED that includes the end date when the
+# rule has a non-NULL ends_at. Sprintf placeholder: %s = localised date.
+msgid "THEME_SHOP_BADGE_LIMITED_ENDS"
+msgstr "Limited drop — ends %s"
+
+msgid "THEME_SHOP_BADGE_RECURRING"
+msgstr "Seasonal theme · returns each year %1$s – %2$s"
+
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "Alle aankopen zijn permanent, kies zorgvuldig voordat je koopt!"
 
@@ -112,6 +126,12 @@ msgstr "Betaling Geselecteerd"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Selecteer Betaling"
 
+msgid "THEME_SHOP_SOCIAL_PROOF_OWNS_FORMAT"
+msgstr "%s has this theme in their collection"
+
+msgid "THEME_SHOP_SOCIAL_PROOF_USES_FORMAT"
+msgstr "%s uses this theme"
+
 msgid "THEME_SHOP_STARS_AWAY_FORMAT"
 msgstr "You're %d %s Stars away from this theme!"
 
@@ -120,6 +140,15 @@ msgstr "Kleursterren over na aankoop:"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
 msgstr "Sorry, je hebt niet genoeg Groene Sterren voor dit thema."
+
+msgid "THEME_SHOP_VAULT_HEADING"
+msgstr "From the archives"
+
+msgid "THEME_SHOP_VAULT_NOT_ON_SALE"
+msgstr "Not on sale"
+
+msgid "THEME_SHOP_VAULT_SUBTITLE"
+msgstr "Themes that aren't on sale right now."
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
 msgstr "Je bezit dit thema al."

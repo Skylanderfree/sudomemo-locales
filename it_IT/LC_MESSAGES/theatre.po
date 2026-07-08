@@ -84,6 +84,9 @@ msgstr "Aggiungi alla Playlist"
 msgid "ADD_WEBHOOK"
 msgstr "Add Webhook"
 
+msgid "ALL"
+msgstr "All"
+
 msgid "ALREADY_ON_ACCOUNT"
 msgstr "Already on this account"
 
@@ -122,6 +125,9 @@ msgstr "Questo è un archivio di un profilo Flipnote Hatena."
 # Very common terms and one-word translations
 msgid "ARTIST"
 msgstr "Artista"
+
+msgid "ARTIST_HAS_N_TRACKS"
+msgstr "%d distinct tracks"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
 msgstr "Riproduzione automatica bloccata"
@@ -380,6 +386,9 @@ msgstr "Commenti"
 msgid "COMMENT_BOX_WRITE_HERE_1"
 msgstr "Write something nice here"
 
+msgid "COMMENT_BOX_WRITE_HERE_10"
+msgstr "That ending caught me off guard."
+
 msgid "COMMENT_BOX_WRITE_HERE_2"
 msgstr "What did you like about this?"
 
@@ -391,6 +400,18 @@ msgstr "How does this Flipnote make you feel?"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
 msgstr "Write something thoughtful here"
+
+msgid "COMMENT_BOX_WRITE_HERE_6"
+msgstr "What scene stood out the most?"
+
+msgid "COMMENT_BOX_WRITE_HERE_7"
+msgstr "The animation timing was really good..."
+
+msgid "COMMENT_BOX_WRITE_HERE_8"
+msgstr "This reminded me of old Flipnote Hatena."
+
+msgid "COMMENT_BOX_WRITE_HERE_9"
+msgstr "The music choice fit perfectly!"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
 msgstr "Be colorful!"
@@ -594,7 +615,7 @@ msgid "CONSOLE_SAVE_NOT_APPROVED"
 msgstr "This console must be in active status to build a save file."
 
 msgid "CONSOLE_SAVE_NO_BIRTHDAY"
-msgstr "Your birthday is not set. Please set your birthday in your Flipnote Studio settings after connecting, as it will not be included in this save file."
+msgstr "Your birthday is not set. After installing the new save file, please set your birthday in your Flipnote Studio settings before connecting, as it will not be included in the save data."
 
 msgid "CONSOLE_SAVE_RATE_LIMITED"
 msgstr "Please wait a few minutes before building another save file for this console."
@@ -741,8 +762,53 @@ msgstr "Immagine del profilo attuale"
 msgid "CUSTOM_FRAMES"
 msgstr "Cornici personalizzate"
 
+msgid "CUSTOM_FRAMES_ASSIGNMENT_INHERIT"
+msgstr "Inherit creator default"
+
+msgid "CUSTOM_FRAMES_ASSIGNMENT_NONE"
+msgstr "Do not show a frame"
+
+msgid "CUSTOM_FRAMES_ASSIGNMENT_SPECIFIC"
+msgstr "Use a specific frame"
+
+msgid "CUSTOM_FRAMES_DEFAULT_BADGE"
+msgstr "Default"
+
+msgid "CUSTOM_FRAMES_DEFAULT_FRAME"
+msgstr "Default Frame"
+
+msgid "CUSTOM_FRAMES_DEFAULT_SETTINGS_LINK"
+msgstr "Set default custom frame"
+
+msgid "CUSTOM_FRAMES_EDIT_SECTION_EXPLANATION"
+msgstr "Choose how this Flipnote is displayed vertically in Flipstream and other vertical experiences."
+
+msgid "CUSTOM_FRAMES_NO_DEFAULT_PREVIEW"
+msgstr "No creator default frame is set"
+
 msgid "CUSTOM_FRAMES_PLUS_CTA"
 msgstr "Unlock custom frames and more with Sudomemo Plus!"
+
+msgid "CUSTOM_FRAMES_PREVIEW_TITLE"
+msgstr "Vertical display preview"
+
+msgid "CUSTOM_FRAMES_REPLACE_IMAGE"
+msgstr "Replace Image"
+
+msgid "CUSTOM_FRAMES_SAMPLE_BADGE"
+msgstr "Sample"
+
+msgid "CUSTOM_FRAMES_SELECT_FRAME"
+msgstr "Select a frame"
+
+msgid "CUSTOM_FRAMES_SETTINGS_EXPLANATION"
+msgstr "Manage your custom frames for Flipstream, YouTube Short uploads, and other places."
+
+msgid "CUSTOM_FRAMES_UPLOAD_FRAME"
+msgstr "Upload Frame"
+
+msgid "CUSTOM_FRAMES_VERTICAL_VIDEO"
+msgstr "Vertical Video"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -948,6 +1014,108 @@ msgstr "Lettere, numeri e simboli, massimo 40 caratteri."
 
 msgid "EDIT_PLAYLIST"
 msgstr "Modifica Playlist"
+
+msgid "EDIT_PLAYLIST_BACK_TO_VIEW"
+msgstr "View playlist"
+
+msgid "EDIT_PLAYLIST_CARD_ADD_ITEM"
+msgstr "Add Flipnote"
+
+msgid "EDIT_PLAYLIST_CARD_CHANGE_THUMB"
+msgstr "Change thumbnail"
+
+msgid "EDIT_PLAYLIST_CARD_EDIT_DETAILS"
+msgstr "Edit details"
+
+msgid "EDIT_PLAYLIST_CARD_MORE"
+msgstr "More"
+
+msgid "EDIT_PLAYLIST_CARD_PLAY_ALL"
+msgstr "Play all"
+
+msgid "EDIT_PLAYLIST_CARD_SHARE"
+msgstr "Share"
+
+msgid "EDIT_PLAYLIST_DETAILS_FAILED"
+msgstr "Couldn't save playlist details."
+
+msgid "EDIT_PLAYLIST_EMPTY_STATE"
+msgstr "This playlist is empty. Add Flipnotes from any Flipnote page."
+
+msgid "EDIT_PLAYLIST_ITEM_MOVE_BOTTOM"
+msgstr "Move to bottom"
+
+msgid "EDIT_PLAYLIST_ITEM_MOVE_TOP"
+msgstr "Move to top"
+
+msgid "EDIT_PLAYLIST_ITEM_OPEN"
+msgstr "Open Flipnote"
+
+msgid "EDIT_PLAYLIST_ITEM_OPTIONS"
+msgstr "Options"
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVE"
+msgstr "Remove from playlist"
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVED"
+msgstr "Removed from playlist."
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVE_FAILED"
+msgstr "Couldn't remove that Flipnote."
+
+msgid "EDIT_PLAYLIST_ITEM_SET_THUMB"
+msgstr "Set as playlist thumbnail"
+
+msgid "EDIT_PLAYLIST_ITEM_SHARE"
+msgstr "Share Flipnote"
+
+msgid "EDIT_PLAYLIST_LINK_COPIED"
+msgstr "Link copied to clipboard."
+
+msgid "EDIT_PLAYLIST_ORDER_FAILED"
+msgstr "Couldn't save order — please try again."
+
+msgid "EDIT_PLAYLIST_ORDER_SAVED"
+msgstr "Order saved."
+
+msgid "EDIT_PLAYLIST_OVERFLOW_COPY_LINK"
+msgstr "Copy playlist link"
+
+msgid "EDIT_PLAYLIST_OVERFLOW_DELETE"
+msgstr "Delete playlist"
+
+msgid "EDIT_PLAYLIST_PAGE_TITLE"
+msgstr "Edit Playlist"
+
+msgid "EDIT_PLAYLIST_PAGE_TITLE_FORMAT"
+msgstr "Edit Playlist — %s"
+
+msgid "EDIT_PLAYLIST_SORT_ADDED_NEWEST"
+msgstr "Date added (newest)"
+
+msgid "EDIT_PLAYLIST_SORT_ADDED_OLDEST"
+msgstr "Date added (oldest)"
+
+msgid "EDIT_PLAYLIST_SORT_LABEL"
+msgstr "Sort"
+
+msgid "EDIT_PLAYLIST_SORT_MANUAL"
+msgstr "Default"
+
+msgid "EDIT_PLAYLIST_SORT_POPULAR"
+msgstr "Most popular"
+
+msgid "EDIT_PLAYLIST_SORT_PUBLISHED_NEWEST"
+msgstr "Date published (newest)"
+
+msgid "EDIT_PLAYLIST_SORT_PUBLISHED_OLDEST"
+msgstr "Date published (oldest)"
+
+msgid "EDIT_PLAYLIST_THUMB_SET"
+msgstr "Playlist thumbnail updated."
+
+msgid "EDIT_PLAYLIST_THUMB_SET_FAILED"
+msgstr "Couldn't update thumbnail."
 
 msgid "EDIT_PROFILE"
 msgstr "Edit Profile"
@@ -1165,6 +1333,45 @@ msgstr "Puoi caricare il tuo Flipnote sul tuo canale Youtube. Clicca il pulsante
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
 
+msgid "FLIPSTREAM_PLAYLIST_ADDED"
+msgstr "Added to playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_ADD_FAILED"
+msgstr "Couldn't add that Flipnote to a playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_AND_ADD"
+msgstr "Create and add"
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_FAILED"
+msgstr "Couldn't create that playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_TITLE"
+msgstr "Create new playlist"
+
+msgid "FLIPSTREAM_PLAYLIST_LOADING"
+msgstr "Loading playlists..."
+
+msgid "FLIPSTREAM_PLAYLIST_MODAL_TITLE"
+msgstr "Add to playlist"
+
+msgid "FLIPSTREAM_PLAYLIST_NO_AVAILABLE"
+msgstr "No available playlists yet."
+
+msgid "FLIPSTREAM_PLAYLIST_REMOVED"
+msgstr "Removed from playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_REMOVE_FAILED"
+msgstr "Couldn't remove that Flipnote from the playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_TITLE_PLACEHOLDER"
+msgstr "Playlist title"
+
+msgid "FLIPSTREAM_SAVED_TO_PLAYLIST"
+msgstr "Saved to playlist"
+
+msgid "FLIPSTREAM_SAVE_TO_PLAYLIST"
+msgstr "Save to playlist"
+
 msgid "FOLLOW"
 msgstr "Segui"
 
@@ -1190,6 +1397,9 @@ msgstr "Turn on new Flipnote notifications"
 
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Hai dimenticato la password?"
+
+msgid "FRAME"
+msgstr "Frame"
 
 msgid "FROM_FOLLOWED_USERS"
 msgstr "From your favorites"
@@ -1499,6 +1709,12 @@ msgstr "Saperne di più"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Devi collegare il tuo canale Youtube prima di caricare il tuo Flipnote."
 
+msgid "LIVE_SEARCH_CHANNELS_EMPTY"
+msgstr "No channels found."
+
+msgid "LIVE_SEARCH_CHANNELS_ERROR"
+msgstr "Search error."
+
 msgid "LOADING"
 msgstr "Loading..."
 
@@ -1720,6 +1936,9 @@ msgstr "Discord"
 msgid "NAVBAR_ITEM_EMAIL"
 msgstr "Email"
 
+msgid "NAVBAR_ITEM_END_ADMIN_SESSION"
+msgstr "End admin session"
+
 msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
@@ -1783,6 +2002,12 @@ msgstr "Più recente"
 msgid "NEWS"
 msgstr "Notizie"
 
+msgid "NEWS_ARTICLE"
+msgstr "News Article"
+
+msgid "NEWS_ARTICLES"
+msgstr "News Articles"
+
 msgid "NEW_ARRIVALS"
 msgstr "New Arrivals"
 
@@ -1802,6 +2027,9 @@ msgstr "Inserisci il tuo nuovo indirizzo email"
 
 msgid "NEW_FRAME"
 msgstr "Nuova cornice"
+
+msgid "NEW_FROM"
+msgstr "New from %s"
 
 msgid "NEW_PROFILE_PICTURE"
 msgstr "Nuova immagine del profilo"
@@ -2021,6 +2249,44 @@ msgstr "Commento fissato"
 msgid "PI_SEE_IN_INVENTORY"
 msgstr "You can find this in your Inventory!"
 
+# %d = star count
+msgid "PI_STARS_BLUE_NAME"
+msgstr "%d Blue Star(s)"
+
+msgid "PI_STARS_DESC"
+msgstr "You can add these Stars to things that you like!"
+
+# %d = star count
+msgid "PI_STARS_GREEN_NAME"
+msgstr "%d Green Star(s)"
+
+# %d = star count
+msgid "PI_STARS_PURPLE_NAME"
+msgstr "%d Purple Star(s)"
+
+# %d = star count
+msgid "PI_STARS_RED_NAME"
+msgstr "%d Red Star(s)"
+
+msgid "PI_STARS_TITLE"
+msgstr "You got Stars!"
+
+msgid "PI_SUDOMEMO_PLUS_DESC"
+msgstr "You can check your Plus balance in your Inventory."
+
+# %d = number of days
+msgid "PI_SUDOMEMO_PLUS_NAME"
+msgstr "%d days of Sudomemo Plus"
+
+msgid "PI_SUDOMEMO_PLUS_TITLE"
+msgstr "You got Sudomemo Plus!"
+
+msgid "PI_THEME_DESC"
+msgstr "You can equip this theme from the My Themes section of your Inventory."
+
+msgid "PI_THEME_TITLE"
+msgstr "You got a theme!"
+
 msgid "PLAYLIST"
 msgstr "Playlist"
 
@@ -2201,11 +2467,14 @@ msgstr "items"
 msgid "PROFILE_SHELVES_KEY_PREFIX"
 msgstr "Key"
 
+msgid "PROFILE_SHELVES_MAX_CREATORS_REACHED"
+msgstr "Maximum %s Creators"
+
 msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
-msgstr "Maximum 8 Flipnotes"
+msgstr "Maximum %s Flipnotes"
 
 msgid "PROFILE_SHELVES_MAX_PLAYLISTS_REACHED"
-msgstr "Maximum 8 Playlists"
+msgstr "Maximum %s Playlists"
 
 msgid "PROFILE_SHELVES_NONE"
 msgstr "No shelves yet."
@@ -2225,11 +2494,23 @@ msgstr "Search your Flipnotes by title..."
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SELECTED"
 msgstr "You have selected a profile photo Flipnote."
 
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_HELP"
+msgstr "Search for creators by username."
+
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_LABEL"
+msgstr "Search for a creator"
+
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_PLACEHOLDER"
+msgstr "Enter a username..."
+
 msgid "PROFILE_SHELVES_SEARCH_EMPTY_FLIPNOTES"
 msgstr "No matching Flipnotes found."
 
 msgid "PROFILE_SHELVES_SEARCH_EMPTY_PLAYLISTS"
 msgstr "No matching Playlists found."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_USERS"
+msgstr "No matching creators found."
 
 msgid "PROFILE_SHELVES_SEARCH_ERROR"
 msgstr "Could not search right now."
@@ -2254,6 +2535,9 @@ msgstr "Paste a playlist link, key, title, or description"
 
 msgid "PROFILE_SHELVES_TITLE"
 msgstr "Profile Shelves"
+
+msgid "PROFILE_SHELVES_TYPE_FEATURED_CREATORS"
+msgstr "Featured Creators"
 
 msgid "PROFILE_SHELVES_TYPE_FEATURED_FLIPNOTES"
 msgstr "Featured Flipnotes"
@@ -2286,6 +2570,115 @@ msgstr "Le Stelle di %s provengono da:"
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "%s posta spesso in..."
+
+msgid "PROMO_ALREADY_CLAIMED_BODY"
+msgstr "Looks like you've already redeemed this promo. The reward is already on your account. Have fun!"
+
+msgid "PROMO_ALREADY_CLAIMED_TITLE"
+msgstr "You've already claimed this reward"
+
+msgid "PROMO_BACK_HOME"
+msgstr "Back to Sudomemo"
+
+msgid "PROMO_CLAIM_DEFAULT"
+msgstr "Claim my reward"
+
+msgid "PROMO_CONTINUE_DEFAULT"
+msgstr "Continue"
+
+# %s = the campaign's CTA label
+msgid "PROMO_CONTINUE_TO"
+msgstr "Continue: %s"
+
+msgid "PROMO_CSRF_BODY"
+msgstr "Your session token didn't match. This can happen if you left this page open for a long time. Please go back and click Claim again."
+
+msgid "PROMO_CSRF_RETRY"
+msgstr "Go back"
+
+msgid "PROMO_CSRF_TITLE"
+msgstr "Please try that again"
+
+msgid "PROMO_DBERROR_BODY"
+msgstr "We hit a snag while processing your reward. Please try again in a moment. If the problem keeps happening, contact support and we'll sort it out."
+
+msgid "PROMO_DBERROR_RETRY"
+msgstr "Try again"
+
+msgid "PROMO_DBERROR_TITLE"
+msgstr "Something went wrong on our end"
+
+msgid "PROMO_ENDED_BODY"
+msgstr "Thanks for clicking through. This campaign has wrapped up. Watch your inbox for the next one!"
+
+msgid "PROMO_ENDED_TITLE"
+msgstr "This promo has ended"
+
+msgid "PROMO_EXPIRED_BODY"
+msgstr "Sorry, this offer's window has closed. Keep an eye on your inbox; we run promos throughout the year!"
+
+msgid "PROMO_EXPIRED_TITLE"
+msgstr "This promo link has expired"
+
+msgid "PROMO_GENERIC_LANDING_BODY"
+msgstr "You've been sent a reward by the Sudomemo team! Click the button below to claim it."
+
+msgid "PROMO_GENERIC_REDEEMED_BODY"
+msgstr "Your reward has been added to your account. Enjoy!"
+
+msgid "PROMO_INVALID_BODY"
+msgstr "This promo link doesn't look right. Double-check the URL in your email, or head back to the Sudomemo home page."
+
+msgid "PROMO_INVALID_TITLE"
+msgstr "We couldn't find that promo link"
+
+msgid "PROMO_PAUSED_BODY"
+msgstr "We've put this promo on pause for a moment. Try again in a little while, and thanks for your patience!"
+
+msgid "PROMO_PAUSED_TITLE"
+msgstr "This promo is temporarily paused"
+
+msgid "PROMO_REVOKED_BODY"
+msgstr "This particular link has been revoked. If you think this is a mistake, please reach out to support."
+
+msgid "PROMO_REVOKED_TITLE"
+msgstr "This promo link is no longer valid"
+
+msgid "PROMO_REWARDS_HEADER"
+msgstr "What you got:"
+
+# %s = item display name
+msgid "PROMO_REWARD_ITEM"
+msgstr "Item: %s"
+
+# %d = number of days
+msgid "PROMO_REWARD_PLUS_DAYS"
+msgstr "%d days of Sudomemo Plus"
+
+# %d = star count
+msgid "PROMO_REWARD_STARS"
+msgstr "%d Star(s)"
+
+# %s = theme display name
+msgid "PROMO_REWARD_THEME"
+msgstr "Theme: %s"
+
+# %s = title display name
+msgid "PROMO_REWARD_TITLE"
+msgstr "Title: %s"
+
+# %s = trophy display name
+msgid "PROMO_REWARD_TROPHY"
+msgstr "Trophy: %s"
+
+msgid "PROMO_WRONG_USER_BODY"
+msgstr "You're currently signed in to an account that this promo wasn't sent to. Promo links are personal and tied to the account they were emailed to. Switch accounts to claim it."
+
+msgid "PROMO_WRONG_USER_SWITCH"
+msgstr "Sign out and switch accounts"
+
+msgid "PROMO_WRONG_USER_TITLE"
+msgstr "This link was sent to a different account"
 
 msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
 msgstr "Ricevi notifiche istantanee quando ottieni stelle, commenti, e altre interazioni sui tuoi Flipnote."
@@ -2350,6 +2743,27 @@ msgstr "Hai superato il limite di velocità per l'invio di messaggi."
 
 msgid "RATE_LIMITED_SWITCHER"
 msgstr "Rate limited. Please wait before performing more actions."
+
+msgid "REASSIGN_CHANNEL_ERROR"
+msgstr "Failed to update channel."
+
+msgid "REASSIGN_CHANNEL_MODAL_TITLE"
+msgstr "Reassign Channel"
+
+msgid "REASSIGN_CHANNEL_NO_SELECTION"
+msgstr "Please select a channel first."
+
+msgid "REASSIGN_CHANNEL_SEARCH_HELP"
+msgstr "Start typing to find a channel"
+
+msgid "REASSIGN_CHANNEL_SEARCH_LABEL"
+msgstr "Search Channels"
+
+msgid "REASSIGN_CHANNEL_SEARCH_PLACEHOLDER"
+msgstr "Channel name..."
+
+msgid "REASSIGN_CHANNEL_SUCCESS"
+msgstr "Channel updated!"
 
 msgid "RECENT"
 msgstr "Recente"
@@ -2453,6 +2867,15 @@ msgstr "folder of choice"
 
 msgid "SEARCH"
 msgstr "Cerca"
+
+msgid "SEARCH_CATEGORIES"
+msgstr "Categories"
+
+msgid "SEARCH_NO_RESULTS_FOR"
+msgstr "We couldn't find anything for \"%s\"."
+
+msgid "SEARCH_NO_RESULTS_TITLE"
+msgstr "No results"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
 msgstr "Nome utente, FSID, brano, artista o canale"
@@ -2656,6 +3079,18 @@ msgstr "Top"
 msgid "TO_ADD_A_COMMENT"
 msgstr "per aggiungere un commento"
 
+msgid "TRANSLATE_COMMENT"
+msgstr "Translate"
+
+msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
+msgstr "Translated by Google"
+
+msgid "TRANSLATION_NOT_READY"
+msgstr "Translation not yet ready for this comment."
+
+msgid "TRANSLATION_UNAVAILABLE"
+msgstr "Translation unavailable."
+
 msgid "TROPHY_CASE"
 msgstr "Galleria Trofei"
 
@@ -2706,6 +3141,9 @@ msgstr "Stato del caricamento"
 # Upload to YouTube page
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "Il tuo account è stato limitato dall'uso dei nostri servizi di integrazione di YouTube."
+
+msgid "USED_IN_N_FLIPNOTES"
+msgstr "Used in %d Flipnotes"
 
 msgid "USERNAME"
 msgstr "Username"
@@ -2808,6 +3246,9 @@ msgstr "Casella di testo per commenti"
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Scrivi qui"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_PLACEHOLDER"
+msgstr "This comment will be posted as Moderator."
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "Non usarlo per i commenti personali."
